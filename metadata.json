@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: BhojanSetu",
+  "description": "AI-Powered Food Waste Management System connecting donors, NGOs, and volunteers to save surplus food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
